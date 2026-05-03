@@ -1,0 +1,14 @@
+com\skillverify\exam\model\Question.class
+com\skillverify\exam\security\SecurityConfig$1.class
+com\skillverify\exam\util\JwtUtil.class
+com\skillverify\exam\model\Exam.class
+com\skillverify\exam\repository\QuestionRepository.class
+com\skillverify\exam\controller\ExamController.class
+com\skillverify\exam\repository\AttemptRepository.class
+com\skillverify\exam\model\Badge.class
+com\skillverify\exam\model\Attempt.class
+com\skillverify\exam\service\ExamService.class
+com\skillverify\exam\security\SecurityConfig.class
+com\skillverify\exam\ExamServiceApplication.class
+com\skillverify\exam\repository\BadgeRepository.class
+com\skillverify\exam\repository\ExamRepository.class
